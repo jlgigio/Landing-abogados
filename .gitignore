@@ -1,0 +1,6 @@
+.agent/
+skills/
+tools/
+.gemini/
+*.png
+# If you want to include images, comment the line above
